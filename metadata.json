@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Velocidade do Vento 2026 - ThingSpeak",
+  "description": "Dashboard meteorológico interativo com velocidade do vento diária, média e máxima para os meses e ano de 2026 da Estação Experimental Alto Umuarama (Canal ThingSpeak 321770).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
