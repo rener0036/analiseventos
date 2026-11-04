@@ -8,6 +8,7 @@ export default defineConfig(() => {
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
+        base: '/https://rener0036.github.io/analiseventos//',
         '@': path.resolve(__dirname, '.'),
       },
     },
